@@ -70,7 +70,7 @@ A tag header é posicionada no início do documento ou de uma seção e pode con
 Neste exemplo, temos um cabeçalho básico com um título principal h1 e um menu de navegação nav contendo uma lista de itens de menu ul. Esses elementos estão agrupados dentro da tag header, representando a seção de cabeçalho do site.
 
 
-## ⚙️ Papel do <header> na estrutura da página
+## ⚙️ Papel do header na estrutura da página
 A tag header desempenha um papel importante na estruturação semântica da página. Ela fornece um contêiner distintivo para o conteúdo do cabeçalho, permitindo que os navegadores, mecanismos de busca e leitores de tela entendam a importância desses elementos e sua relação com o restante do conteúdo.
 
 Além disso, a tag header pode ser usada em várias seções de uma página para representar os cabeçalhos de cada seção, como em um layout de várias colunas ou em páginas com várias seções distintas.

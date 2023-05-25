@@ -7,6 +7,8 @@
 * [🔧 Tecnologias utilizadas](#-tecnologias-utilizadas)
 * [🔧 Uso básico da tag header](#-uso-básico-da-tag-header)
 * [⚙️ Papel do header na estrutura da página](#-Papel-do-header-na-estrutura-da-página)
+* [💡 Estilizando a tag header](#-Estilizando-a-tag-header)
+* [✅ Conclusão](#-conclusão)
 
 
 
